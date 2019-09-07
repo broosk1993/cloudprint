@@ -91,7 +91,7 @@ module CloudPrint
     end
 
     def full_url_for(path)
-      "https://google.com/cloudprint" + path
+      "https://www.google.com/cloudprint" + path
     end
   end
 end
